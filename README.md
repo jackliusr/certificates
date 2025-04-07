@@ -8,3 +8,4 @@
 * [gitops-at-scale](certificate-gitops-at-scale-63242d42bf43907ba64a1709.pdf)
 * [EnvoyProxy fundamentals](envoyproxy-cert-2022-06-18.pdf)
 * [istio-fundamentals](istio-fundamentals-cert-2022-06-18.pdf)
+* [other certificates at credential](https://www.credential.net/profile/jackliusr/wallet)
