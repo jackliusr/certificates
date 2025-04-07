@@ -9,4 +9,4 @@
 * [EnvoyProxy fundamentals](envoyproxy-cert-2022-06-18.pdf)
 * [istio-fundamentals](istio-fundamentals-cert-2022-06-18.pdf)
 * [other certificates at credential](https://www.credential.net/profile/jackliusr/wallet)
-* [other certificates at credly] (https://www.credly.com/users/jackliusr)
+* [other certificates at credly](https://www.credly.com/users/jackliusr)
